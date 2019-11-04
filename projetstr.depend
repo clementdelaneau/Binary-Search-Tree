@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1515861477 source:c:\users\cleme\documents\codeblocksprojects\c\projetstr\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"abr.h"
+	"abr.c"
+	"menu.c"
+
+1515861510 c:\users\cleme\documents\codeblocksprojects\c\projetstr\abr.h
+
+1515868729 c:\users\cleme\documents\codeblocksprojects\c\projetstr\abr.c
+	"abr.h"
+	<stdlib.h>
+	<stdio.h>
+
+1515190460 c:\users\cleme\documents\codeblocksprojects\c\projetstr\menu.c
+
